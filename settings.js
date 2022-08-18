@@ -55,15 +55,15 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['94714790066'] //ur owner number
-global.ownername = "🦄Dream guy vimu" //ur owner name
+global.ownername = "Sewwandi bot" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "srilanka, north western province , kurunagala " //ur location
 
 //bot bomdy 
 global.owner = ['94714790066']
 global.ownertag = '94714790066' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
+global.botname = 'Sewwandi bot' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
+global.premium = ['94714790066'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -105,16 +105,16 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
+    success: '*හරි පගො* ✓',
+    admin: '~ඇඩ්මින්ට විතරයි පුලුවන් පගො~ 😒👍!',
+    botAdmin: '*උබ ඇඩ්මින් නෙමෙ පගො* 😒👍!',
+    owner: '*බොට් හදපු එකාට විතරයි පුලුවන් පගො* 😒👍!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
+    wait: '*ඉදපං හුත්තො ටිකක් ...',
     linkm: 'Where is the link?',
-    error: 'Error!!',
+    error: '*මෙයා මේකෙ පකක් ඔබලා* 😒💔!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
